@@ -1,0 +1,35 @@
+Sorting: Bubble
+R: Array sorted in 18.0 ms. Number of operations: 4878.
+S: Array sorted in 0.3 ms. Number of operations: 98.
+A: Array sorted in 24.4 ms. Number of operations: 7350.
+T: Array sorted in 13.2 ms. Number of operations: 3696.
+
+
+Sorting: Shell
+R: Array sorted in 11.4 ms. Number of operations: 1095.
+S: Array sorted in 3.6 ms. Number of operations: 609.
+A: Array sorted in 6.4 ms. Number of operations: 879.
+T: Array sorted in 4.7 ms. Number of operations: 663.
+
+
+Sorting: Merge
+R: Array sorted in 16.8 ms. Number of operations: 48.
+S: Array sorted in 17.7 ms. Number of operations: 48.
+A: Array sorted in 17.9 ms. Number of operations: 48.
+T: Array sorted in 6.8 ms. Number of operations: 48.
+
+
+Sorting: Quick
+R: Array sorted in 7.8 ms. Number of operations: 668.
+S: Array sorted in 14.6 ms. Number of operations: 1568.
+A: Array sorted in 9.6 ms. Number of operations: 1543.
+T: Array sorted in 5.1 ms. Number of operations: 721.
+
+
+Sorting: Tim
+R: Array sorted in 16.6 ms. Number of operations: 2142.
+S: Array sorted in 0.9 ms. Number of operations: 148.
+A: Array sorted in 30.3 ms. Number of operations: 3946.
+T: Array sorted in 5.5 ms. Number of operations: 862.
+
+
